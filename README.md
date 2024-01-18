@@ -24,9 +24,6 @@ web Perpustakaan Online ini di bangun Meenggunakan :
 - lalu jalankan index.html nya dengan cara klik kanan (open in default browser)
 
 
-## Screnshoot
-![alt text](?raw=true)
-
 
 
 
